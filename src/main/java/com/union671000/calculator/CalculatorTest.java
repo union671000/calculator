@@ -1,5 +1,5 @@
 package com.union671000.calculator; 
-import org.junit; 
+import org.junit.Test; 
 import static org.junit.Assert.assertEquals; 
  
 public class CalculatorTest { 
